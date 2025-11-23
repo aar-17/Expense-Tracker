@@ -1,0 +1,26 @@
+[
+    {
+        "date": "23-November-2025",
+        "amount": 123454.0,
+        "category": "Food",
+        "description": "Breakfast"
+    },
+    {
+        "date": "23-November-2025",
+        "amount": 256754.0,
+        "category": "Travel",
+        "description": "Cab"
+    },
+    {
+        "date": "23-November-2025",
+        "amount": 356787.0,
+        "category": "Rent",
+        "description": "1 day stay"
+    },
+    {
+        "date": "23-November-2025",
+        "amount": 445678.0,
+        "category": "Food",
+        "description": "Lunch"
+    }
+]
